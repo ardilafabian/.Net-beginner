@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabian Ardila\\Desktop\\Platzi\\Carrera de Desarrollo de Aplicaciones con ASP .NET\\ETAPA1\\ETAPA1.csproj",
+      "projectUniqueName": "C:\\Users\\Fabian Ardila\\Desktop\\Platzi\\Carrera de Desarrollo de Aplicaciones con ASP .NET\\corEscuela\\ETAPA1\\ETAPA1.csproj",
       "projectName": "ETAPA1",
-      "projectPath": "C:\\Users\\Fabian Ardila\\Desktop\\Platzi\\Carrera de Desarrollo de Aplicaciones con ASP .NET\\ETAPA1\\ETAPA1.csproj",
+      "projectPath": "C:\\Users\\Fabian Ardila\\Desktop\\Platzi\\Carrera de Desarrollo de Aplicaciones con ASP .NET\\corEscuela\\ETAPA1\\ETAPA1.csproj",
       "packagesPath": "C:\\Users\\Fabian Ardila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabian Ardila\\Desktop\\Platzi\\Carrera de Desarrollo de Aplicaciones con ASP .NET\\ETAPA1\\obj\\",
+      "outputPath": "C:\\Users\\Fabian Ardila\\Desktop\\Platzi\\Carrera de Desarrollo de Aplicaciones con ASP .NET\\corEscuela\\ETAPA1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

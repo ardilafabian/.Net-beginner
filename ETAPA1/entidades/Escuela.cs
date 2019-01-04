@@ -16,6 +16,8 @@ namespace CorEscuela.Entidades
 
         public TiposEscuela TipoEscuela { get; set; }
 
+        public Curso[] Cursos { get; set; }
+
         /* 
         ***********FORMA DE ESCRIBIR EL CONSTRUCTOR***************
         public Escuela(string nombre, int año) { 
@@ -24,6 +26,15 @@ namespace CorEscuela.Entidades
         }*/
 
         public Escuela(string nombre, int año) => (Nombre, AñoDeCreacion) = (nombre, año);
+
+        public Escuela(string nombre, int año, 
+                            TiposEscuela tipos, string pais = "", string ciudad = "") {
+
+            (Nombre, AñoDeCreacion) = (nombre, año);
+            Pais = pais;
+            this.Pais = pais;
+            this.Ciudad = ciudad;
+        }
 
         public override string ToString() {
             return $"Nombre: {nombre}, Tipo: {TipoEscuela} \nPais: {Pais}, Ciudad: {Ciudad}";
